@@ -9,19 +9,6 @@ Brazilian Portuguese - :brazil:
 English - :uk:
 
 <hr>
-
-<!--
-**agentkyo/Meu_Portifolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🌱 I’m currently learning more about Python, Go, Pandas and Flutter
-- 🤔 I’m looking for any kind of help to improve my skills in any kind of situation
-- 💬 Ask me about Google App Script, Python, API, HTML Mail template, Go API with MUX
-- 📫 How to reach me: Check my contacts at end of the page
-- ⚡ Fun fact: I Know how to speak english, but now i'm challenging myself to learn Japanese with Duolingo 
--->
-
-### Meu_Portifolio -> :uk:
-<div>
   
 Hi there, i hope you are safety and fine!
 
@@ -40,21 +27,6 @@ Competencies: Python, GoLang, JavaScript, SQL, Excel, Sheets, VBA, AppScript, GS
 </div>
 
 <hr>
-
-### Meu_Portifolio -> :brazil:
-Meus primeiros projetos como desenvolvedor de Software.
-
-Olá para você do mundo! 
-
-Fiquei completamente apaixonado pelo universo de desenvolvimento, então aqui vou postar um pouco do que eu tenho feito para você avaliar se tenho capacidade de aprender ainda mais para fazer parte do seu time!
-
-Depois de ser muito incentivado por colegas, vou iniciar aqui no dia 14/02/2022 este repositório no intuito de mostrar o que eu já sei, e também como uma forma de no futuro olhar para trás e ver de onde eu parti. 
-
-Muito Obrigado pela visita! 
-
-<div>
-  
- <hr>
   
 My workday tools:
 
