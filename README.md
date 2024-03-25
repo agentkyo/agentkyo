@@ -48,60 +48,6 @@ My workday tools:
 </div>
 <hr>
 
-Here some examples of my personal Projects:
-
-<div>
- <table class="center">
-  <tr>
-    <th> Tecnology / Language </th>
-    <th>Project Name</th>
-    <th>Link to Code</th>
-  </tr>
-  <tr>
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/> Python </td>
-    <td> Algorithm to validate CPF </td>
-    <td> <a href="https://github.com/agentkyo/Meu_Portifolio/blob/main/validador_cpf.py"</a> Check this Code </td>
-  </tr>
-    <tr>
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="25" height="25" /> Python & Flask</td>
-    <td> REST API to validate CPF </td>
-    <td> <a href="https://github.com/agentkyo/Meu_Portifolio/blob/main/REST_validador_cpf.py"</a> See documentation</td>
-  </tr>
-  <tr>
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="25" height="25" /> Go Lang </td>
-    <td> Algorithm to validate CPF </td>
-    <td> <a href="https://github.com/agentkyo/Meu_Portifolio/blob/main/validador_cpf.go"</a> Check this Code </td>
-  </tr>
-    <tr>
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="25" height="25" /> Go Lang & Gorilla Mux </td>
-    <td> REST API to validate CPF </td>
-    <td> <a href="https://github.com/agentkyo/Meu_Portifolio/blob/main/REST_validador_cpf.go"</a> See documentation </td>
-  </tr>
-    </tr>
-    <tr>
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="25" height="25" /> Google AppScript </td>
-    <td> Send Webhook Notification to Google Chat </td>
-    <td> <a href="https://github.com/agentkyo/Google_App_Script/blob/main/GoogleChatWebHookNotification.gs"</a> Check this Code </td>
-  </tr>
-      <tr>
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="25" height="25" /> Google AppScript </td>
-    <td> Get CNPJ data from Receita Federal </td>
-    <td> <a href="https://github.com/agentkyo/Google_App_Script/blob/main/Consulta_Cnpj_Receita.gs"</a> Check this Code </td>
-  </tr>
-    <tr>
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" width="25" height="25" /> Arduino </td>
-    <td> Traffic Lights Design Code </td>
-    <td> <a href="https://github.com/agentkyo/arduino_projects/blob/main/semaforo.h"</a> Check this Code / <a href="https://i.imgur.com/PEKJ5le.png"</a> Link to picture </td>
-  </tr>
-      <tr>
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" width="25" height="25" /> Arduino </td>
-    <td> Display LCD 16x2 </td>
-    <td> <a href="https://github.com/agentkyo/arduino_projects/blob/main/displayLcd_16x2.h"</a> Check this Code / <a href="https://i.imgur.com/V33AU9K.png"</a> Link to picture </td>
-  </tr>
-</table>
-</div>
-<hr>
-
 ### Contacts:
 
 <div>
