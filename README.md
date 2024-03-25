@@ -60,7 +60,6 @@ My workday tools:
 <div>
 <a href="https://github.com/agentkyo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentkyo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agentkyo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ## WakaTimer:
