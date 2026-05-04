@@ -66,15 +66,6 @@ KYC and AML flows, merchant onboarding, transaction engines, fraud scoring, and 
 
 <br>
 
-### GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agentkyo&show_icons=true&hide_border=true&bg_color=00000000&title_color=4C9AFF&text_color=8B949E&icon_color=4C9AFF&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentkyo&layout=compact&hide_border=true&bg_color=00000000&title_color=4C9AFF&text_color=8B949E&langs_count=8" alt="Top Languages">
-</p>
-
-<br>
-
 ### Get in touch
 
 Open to consulting, contract, and full time work, especially in AI infrastructure, payments, and automation.
